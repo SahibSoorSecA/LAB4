@@ -101,3 +101,35 @@ justify-content: space-around;}
     text-align: justify;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 30px;}
+
+.drive3 {display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+.d3 { 
+        padding-left: 15%;
+        padding-top: 25%;
+        text-align: justify;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 30px;}
+.d3list {  
+        padding-left: 15%;
+        text-align: justify;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 30px;}
+
+.drive4 {display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+        }
+.d4 { 
+            padding-left: 15%;
+            padding-top: 25%;
+            text-align: justify;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size: 30px;}
+.d4list {  
+            padding-left: 15%;
+            text-align: justify;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size: 30px;}
