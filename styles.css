@@ -1,7 +1,7 @@
 .title {
     display: flex;
     justify-content: center;
-    background-color: rgb(255, 255, 255);
+    background-color: hwb(0 100% 0%);
     outline: solid black 5px;
 }
 .bannerbox2 {font-size: 100px;
@@ -12,8 +12,8 @@ outline: solid black 5px;}
 .navribbon {
     display: flex;
     justify-content: space-around;
-    padding-top: 50px;
-    font-size: 20px;
+    padding: 50px;
+    font-size: 50px;
     
 }
 .info1 {
@@ -36,7 +36,7 @@ outline: solid black 5px;}
     padding-inline: 60px
     ;
 }
-
+------------------------------------------------------------------------------------------------------
 .content {
     display: flex;
 
